@@ -1,9 +1,8 @@
 Task Manager Project:
-Remember to replace the placeholders your_database_host, your_database_username, your_database_password, and your_database_name with your actual MySQL database credentials.
+Remember to replace the placeholders your_database_host, your_database_username, your_database_password, and your_database_name with your actual MySQL database credentials. Figure out the edit button issues
 
 
-
-VS2: updated
+VS2: updated; Still need to replace the placeholders your_database_host, your_database_username, your_database_password, and your_database_name with your actual MySQL database credentials.
 
 
 VS3.5: Doesnt work yet has SQL issue
